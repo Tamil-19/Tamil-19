@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamil-19
+- 👋 Hi, I’m @Tamil Selvan M
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...B.E.,C.S.E
 - 💞️ I’m looking to collaborate on ...project development
